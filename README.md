@@ -1,4 +1,4 @@
-no### Hi, I’m Anifowose Abdulrahmon Adekunle 👋
+### Hi, I’m Anifowose Abdulrahmon Adekunle 👋
 
 🎓 Physics Undergraduate at the University of Ibadan | 💻 Python Developer | ⚛️ Computational Physics & Data Science Explorer
 
